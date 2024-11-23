@@ -15,7 +15,7 @@ global.owner = [
   "6283115320583", //ganti nomor owner
   "" //nomor owner kedua kalo ada
 ]
-global.nomorbot = '62xxx'
+global.nomorbot = '6283115320583'
 global.urlfoto = 'https://'
 
 let fs = require('fs')
